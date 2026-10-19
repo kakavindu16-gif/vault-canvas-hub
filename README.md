@@ -1,2 +1,10 @@
-# vault-canvas-hub
-Vault Canvas Hub - Handy developer CLI utility engineered by @kakavindu16-gif
+# Vault Canvas Hub
+
+A clean CLI tool for quick workflow automation.
+
+Author: [@kakavindu16-gif](https://github.com/kakavindu16-gif)
+
+### Usage
+```bash
+npx vault-canvas-hub --help
+```
